@@ -1,10 +1,14 @@
 <!--**frozenflame00001/frozenflame00001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<p align="center"><a href="https://github.com/frozenflame00001">
+<p align="center">
+<a href="https://github.com/frozenflame00001">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=frozenflame00001&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/frozenflame00001"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozenflame00001&layout=compact&theme=react&hide_border=true" />
+<!--
+<a href="https://github.com/frozenflame00001">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozenflame00001&layout=compact&theme=react&hide_border=true" />
 </a></p>
+-->
 
 <h2><b><i>Hey there , it's Frozen Flame 👋</i></b></h2>
 <b><i>💻 I'm a Student , Future Doctor & A part time programmer and, web application penetration tester.</i></b>

@@ -21,7 +21,7 @@
 <li> 😐 <i>Studying at MBBS</i></li>
 <li> 😪 <i>Love Sleeping</i></li>
 <li> 💔 <i>Born Single</i></li>
-<li> 🐍 <i>Trying to learn web application penetration tester</i></li>
+<li> 🐍 <i>Trying to learn web application penetration testing.</i></li>
 <li> 🤐 <i>My aim is to become a good doctor with a good human being. And, to put my name in the top hacker's list.</i></li>
 
 <h3><b><i>☠ Works :</i></b></h3>

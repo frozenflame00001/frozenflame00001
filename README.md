@@ -13,7 +13,7 @@
 
 <h2><b><i>Hey there , it's Frozen Flame 👋</i></b></h2>
 <img src="https://raw.githubusercontent.com/frozenflame00001/frozenflame00001/main/assets/148584492_179485530643016_3101763627714589470_n.jpg">
-<b><i>💻 I'm a Student , Future Doctor & A part time programmer and, web application penetration tester.</i></b>
+<b><i>💻 I'm a student , future doctor 🩺 & a part time programmer and, web application penetration tester.</i></b>
 
 <h3><b><i>🤠 About me :</i></b></h3>
 <li> 🇧🇩 <i>Resident of Bangladesh</i></li>
@@ -34,7 +34,7 @@
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/frozenflame00001"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=frozenflame00001&color=blueviolet&style=flat-square"></a>
 
-<h3><b><i>📡 Get in Touch :</i></b></h3>
+<h3><b><i>🔭 Let's be social :</i></b></h3>
 <a href="https://github.com/frozenflame00001"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
 <a href="https://facebook.com/frozen.flame.00002"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
 <a href="https://m.me/frozen.flame.00002"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>

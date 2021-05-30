@@ -49,7 +49,7 @@
 <!--
 <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozenflame00001&theme=synthwave">
 -->
-<img height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=frozenflame00001&theme=synthwave">
+<img align="center" height="300px" width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=frozenflame00001&theme=synthwave">
 </p>
 
 <p align="center">

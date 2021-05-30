@@ -53,7 +53,9 @@
 </p>
 
 <p align="center">
-<b>🏆 Github activity & statistics :</b>
+<b>🏆 Github activity & statistics :</b><br>
 <img src="https://activity-graph.herokuapp.com/graph?username=frozenflame00001&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
+</p>
+<p align="center">
 <img align="center" width=550 src="https://github-profile-trophy.vercel.app/?username=frozenflame00001&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/>
 </p>

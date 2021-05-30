@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-<b>🏆 Github activity & statistics :</b><br>
+<b>🏆 Github activity & statistics :</b><br><br>
 <img src="https://activity-graph.herokuapp.com/graph?username=frozenflame00001&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
 </p>
 <p align="center">

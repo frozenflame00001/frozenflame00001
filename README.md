@@ -17,7 +17,13 @@
 - 🔝 My aim is to be a top cyber security researcher of the whole world. As well as, a good doctor with a good heart.
 
 - 💻 All of my projects are available <a href="https://github.com/frozenflame00001?tab=repositories">here</a>.
-
+<br>
+<p align="center">
+<b>My best job</b>
+    <a href="https://github.com/darknethaxor/DH-HackBar">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=darknethaxor&repo=DH-HackBar&theme=synthwave" height="100" width="300">
+    </a>
+</p>
 
 <h2 align='center'><i>⚙ (My NOOB Skills) ⚙</i></h2>
 <table width="100">
@@ -25,7 +31,10 @@
     <td align='center' width="190">
         <img src="https://user-images.githubusercontent.com/68724228/119315331-5cea3780-bc93-11eb-9bbf-bc2c9f083e00.png" width="60">
     </td>
-     <td align='center' width="190">
+    <td align='center' width="190">
+        <img src="https://raw.githubusercontent.com/frozenflame00001/frozenflame00001/main/assets/images.png" width="60">
+    </td>
+    <td align='center' width="190">
         <img src="https://camo.githubusercontent.com/7f5fead33ec66a577175a27ec3c141627de92d191f226948efca13bb624f0936/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f3733322f3733323231322e706e67" width="60">
     </td>
     <td align='center' width="190">

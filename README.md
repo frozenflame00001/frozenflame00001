@@ -19,7 +19,7 @@
 - 💻 All of my projects are available <a href="https://github.com/frozenflame00001?tab=repositories">here</a>.
 <br>
 <p align="center">
-<b>My best job</b>
+<b>My best job</b><br>
     <a href="https://github.com/darknethaxor/DH-HackBar">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=darknethaxor&repo=DH-HackBar&theme=synthwave" height="100" width="300">
     </a>
